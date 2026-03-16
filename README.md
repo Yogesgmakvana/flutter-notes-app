@@ -30,6 +30,7 @@ Local Storage: SharedPreferences
 IDE: Visual Studio Code
 
 
+<<<<<<< HEAD
 ## App Screenshots
 
 ![Screenshot1](screenshots/pic1.png)
@@ -45,3 +46,5 @@ IDE: Visual Studio Code
 ![Screenshot6](screenshots/pic6.png)
 
 ![Screenshot7](screenshots/pic7.png)
+=======
+>>>>>>> 2eb2ba1ac3563521ee4dd32cc2edbdbb64958352
