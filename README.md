@@ -41,5 +41,7 @@ IDE: Visual Studio Code
 
 <p align="center">
   <img src="screenshots/pic5.png" width="220">
+  <img src="screenshots/pic7.png" width="220">
   <img src="screenshots/pic6.png" width="220">
+
 </p>
