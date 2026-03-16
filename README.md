@@ -4,11 +4,8 @@ The app stores data using SharedPreferences and includes Dark/Light Theme switch
 This project was created during my Flutter internship to practice local storage, UI design, and state handling.
 
 🚀 Features
-
 📝 Add Notes
-
 📖 Read Notes
-
 🗑 Delete Notes
 
 💾 Local Storage using SharedPreferences
