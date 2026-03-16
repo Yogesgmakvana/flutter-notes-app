@@ -1,16 +1,30 @@
-# topic14
+A simple Notes Application built using Flutter that allows users to create and manage notes locally.
+The app stores data using SharedPreferences and includes Dark/Light Theme switching from a Drawer menu.
 
-A new Flutter project.
+This project was created during my Flutter internship to practice local storage, UI design, and state handling.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+📝 Add Notes
 
-A few resources to get you started if this is your first Flutter project:
+📖 Read Notes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🗑 Delete Notes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💾 Local Storage using SharedPreferences
+
+🌙 Dark Mode / ☀️ Light Mode Toggle
+
+📂 Navigation Drawer
+
+⚡ Fast and lightweight UI built with Flutter
+
+🛠 Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Local Storage: SharedPreferences
+
+IDE: Visual Studio Code
