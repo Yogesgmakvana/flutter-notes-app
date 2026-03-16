@@ -95,6 +95,10 @@ class _TasySState extends State<TasyS> {
               child: TextFormField(
                 controller: textController,
                 decoration: InputDecoration(
+                   maxLines: 3,
+                style: TextStyle(
+                  color: Colors.white,
+                ),
                   border: OutlineInputBorder(),
                 ),
               ),
