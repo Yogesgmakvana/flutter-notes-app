@@ -26,6 +26,7 @@ Local Storage: SharedPreferences
 
 IDE: Visual Studio Code
 
+## App Screenshots
 <p align="center">
   <img src="screenshots/pic1.png" width="220">
   <img src="screenshots/pic2.png" width="220">
