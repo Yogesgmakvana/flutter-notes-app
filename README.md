@@ -43,3 +43,8 @@ IDE: Visual Studio Code
   <img src="screenshots/pic6.png" width="220">
 
 </p>
+<h1>APP VIDEO</h1>
+
+https://github.com/user-attachments/assets/971b8acf-7d4d-4066-87aa-2903fdbab1f8
+
+
